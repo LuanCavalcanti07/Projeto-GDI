@@ -1,0 +1,3 @@
+Este projeto visa cobrir aspectos relacionados ao universo de industrias de jogos, onde contemplamos
+as desenvolvedoras de jogos, produtoras, os títulos, as conquistas relacionadas ao título e as atividades
+na loja, o usuário, sistema de compra e por fim os campeonatos atrelados ao jogo.
